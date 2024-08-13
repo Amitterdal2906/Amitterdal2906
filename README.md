@@ -3,7 +3,7 @@
 
 ## About Me
 
-I'm a passionate [Your Profession] with a love for [Your Interests]. I specialize in [Your Specializations] and have experience working with [Technologies/Tools]. My goal is to [Your Goals].
+I'm a passionate student with a love for [Your Interests]. I specialize in [Your Specializations] and have experience working with [Technologies/Tools]. My goal is to [Your Goals].
 
 - 🔭 I’m currently working on **[Your Current Project]**
 - 🌱 I’m currently learning **[Technology/Skill You’re Learning]**
