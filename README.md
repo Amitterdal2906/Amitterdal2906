@@ -10,7 +10,7 @@ I'm a passionate student with a love for Cloud computing. I specialize in [Your 
 - 👯 I’m looking to collaborate on **[Open Source Projects or Areas of Interest]**
 - 💬 Ask me about **[Your Expertise or Hobbies]**
 - 📫 How to reach me: **[Your Contact Information]**
-- 😄 Pronouns: **[Your Pronouns]**
+- 😄 Pronouns: **HE/HIM**
 - ⚡ Fun fact: **[Interesting or Fun Fact About You]**
 
 ## 🚀 My Skills
