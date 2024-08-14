@@ -1,4 +1,4 @@
-# Hi there, I'm Amit Terdal! 👋
+# Hi there, I'm Amit Terdal! 👋 [IM CURRENTLY EDITING MY README SOO THESE MAY CHANGE]
 
 
 ## About Me
