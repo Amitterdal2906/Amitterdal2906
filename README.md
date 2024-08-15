@@ -3,15 +3,6 @@
 
 ## About Me
 
-I'm a passionate student with a love for Cloud computing. I specialize in [Your Specializations] and have experience working with [Technologies/Tools]. My goal is to [Your Goals].
-
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[Technology/Skill You’re Learning]**
-- 👯 I’m looking to collaborate on **[Open Source Projects or Areas of Interest]**
-- 💬 Ask me about **[Your Expertise or Hobbies]**
-- 📫 How to reach me: **[Your Contact Information]**
-- 😄 Pronouns: **HE/HIM**
-- ⚡ Fun fact: **[Interesting or Fun Fact About You]**
 
 
 ## 🚀 My Skills
