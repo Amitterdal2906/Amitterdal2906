@@ -31,8 +31,8 @@ I'm a passionate student with a love for Cloud computing. I specialize in [Your 
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitterdal2906&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitterdal2906&layout=compact&theme=radical)
 
 ## 📈 Contribution Graph
 
