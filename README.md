@@ -1,5 +1,4 @@
-# Hi there, I'm Amit Terdal! 👋 [I'M WORKING ON MY README. THE INFORMATION MIGHT CHANGE, COME AND VISIT LATER FOR THE UPDATES]
-
+# Hi there, I'm Amit Terdal! 👋 
 ## About Me!!
 
 I'm a passionate student with a love for Cloud computing. I specialize in [Your Specializations] and have experience working with [Technologies/Tools]. My goal is to [Your Goals].
@@ -36,7 +35,7 @@ I'm a passionate student with a love for Cloud computing. I specialize in [Your 
 
 ## 📈 Contribution Graph
 
-![GitHub Contribution Graph](https://github.com/YourUsername/github-readme-activity-graph)
+![GitHub Contribution Graph](https://github.com/amitterdal2906/github-readme-activity-graph)
 
 ## 📫 Connect with Me
 
