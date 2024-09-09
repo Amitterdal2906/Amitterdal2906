@@ -6,7 +6,7 @@ I'm a passionate student with a love for Cloud computing. I specialize in [Your 
 - 🔭 I’m currently working on **NOTHING**
 - 🌱 I’m currently learning **PYTHON**
 - 👯 I’m looking to collaborate on **AI/ML**
-- 💬 Ask me about **Football,Hip-pop,R&B,**
+- 💬 Ask me about **Football,Hip-pop,R&B**
 - 😄 Pronouns: **HE/HIM**
 
 ## 🚀 My Skills
