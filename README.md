@@ -7,10 +7,7 @@ I'm a passionate student with a love for Cloud computing. I specialize in [Your 
 - 🌱 I’m currently learning **PYTHON**
 - 👯 I’m looking to collaborate on **AI/ML**
 - 💬 Ask me about **Football,Hip-pop,R&B,**
-- 📫 How to reach me: **[Your Contact Information]**
 - 😄 Pronouns: **HE/HIM**
-- ⚡ Fun fact: **[Interesting or Fun Fact About You]**
-
 
 ## 🚀 My Skills
 
@@ -43,12 +40,6 @@ I'm a passionate student with a love for Cloud computing. I specialize in [Your 
 [![Twitter](https://img.shields.io/badge/Twitter-Important-?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Important-?style=flat&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
-## 📝 Latest Blog Posts
-
-- [Blog Post Title 1](https://yourblog.com/post1)
-- [Blog Post Title 2](https://yourblog.com/post2)
-- [Blog Post Title 3](https://yourblog.com/post3)
-
 ## 🏆 Achievements
 
 - 🎖️ Open Source Contributor for [Project Name](https://github.com/project)
@@ -57,14 +48,8 @@ I'm a passionate student with a love for Cloud computing. I specialize in [Your 
 
 ## 🎨 Projects
 
-### [Project Name](https://github.com/yourusername/project)
+### [Project Name](https://github.com/amitterdal2906/project)
 A brief description of the project.
 
-### [Another Project](https://github.com/yourusername/anotherproject)
+### [Another Project](https://github.com/amitterdal2906/anotherproject)
 A brief description of this project too.
-
-## 🔗 Other Links
-
-- [Personal Blog](https://yourblog.com)
-- [YouTube Channel](https://youtube.com/yourchannel)
-- [Instagram](https://instagram.com/yourhandle)
