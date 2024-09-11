@@ -49,7 +49,7 @@ I'm a passionate student with a love for Cloud computing. I specialize in [Your 
 ## 🎨 Projects
 
 ### [Project Name](https://github.com/amitterdal2906/project)
-A brief description of the project.
+A brief description of the project.!!
 
 ### [Another Project](https://github.com/amitterdal2906/anotherproject)
-A brief description of this project too.
+A brief description of this project too.!!
