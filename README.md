@@ -1,5 +1,5 @@
 # Hi there, I'm Amit Terdal! 👋 
-## About Me!!
+## About Me
 
 I'm a passionate student with a love for Cloud computing. I specialize in [Your Specializations] and have experience working with [Technologies/Tools]. My goal is to [Your Goals].
 
