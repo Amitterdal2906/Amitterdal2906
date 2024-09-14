@@ -1,7 +1,7 @@
 # Hi there, I'm Amit Terdal! 👋 
 ## About Me!!
 
-I'm a passionate student with a love for Cloud computing. I specialize in [Your Specializations] and have experience working with [Technologies/Tools]. My goal is to [Your Goals].
+I'm a passionate student with a love for Cloud computing. I specialize in cloud architecture, deployment, and optimization, and I have experience working with technologies like AWS, Azure, Kubernetes, and Docker. My goal is to innovate cloud solutions that improve scalability, efficiency, and security for enterprises.
 
 - 🔭 I’m currently working on **NOTHING**
 - 🌱 I’m currently learning **PYTHON**
