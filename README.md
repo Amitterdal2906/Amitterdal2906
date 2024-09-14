@@ -1,9 +1,9 @@
-# Hi there, I'm Amit Terdal! 👋 
+# Hey there! I'm Amit Terdal! 👋✨
 ## About Me!!
 
-I'm a passionate student with a love for Cloud computing. I specialize in cloud architecture, deployment, and optimization, and I have experience working with technologies like AWS, Azure, Kubernetes, and Docker. My goal is to innovate cloud solutions that improve scalability, efficiency, and security for enterprises.
+I am an enthusiastic newcomer to the field of Cloud Computing, eager to build a strong foundation in cloud technologies. My interest lies in understanding cloud architecture, deployment, and optimization. Although I am at the beginning of my journey, I have been actively learning about key technologies such as AWS, Azure, Kubernetes, and Docker. My goal is to contribute to creating innovative cloud solutions that enhance scalability, efficiency, and security for businesses.
 
-- 🔭 I’m currently working on **NOTHING**
+- 🔭 I’m currently working on **PACMAN Game Using Python**
 - 🌱 I’m currently learning **PYTHON**
 - 👯 I’m looking to collaborate on **AI/ML**
 - 💬 Ask me about **Football,Hip-pop,R&B**
@@ -42,14 +42,24 @@ I'm a passionate student with a love for Cloud computing. I specialize in cloud 
 - Kubernetes
 - AWS
 - Azure
+
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitterdal2906&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitterdal2906&layout=compact&theme=radical)
+<!-- GitHub Stats Card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitterdal2906&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true&theme=dark)
 
-## 📈 Contribution Graph
+<!-- Top Languages Card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitterdal2906&layout=compact&theme=dark)
 
-[![Amit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amitterdal2906&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🚀 My GitHub Contribution Journey
+
+Curious about what I've been up to on GitHub? Check out my activity graph to see my latest contributions and projects!
+
+[![Amit's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amitterdal2906&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+🔍 Dive deeper into my projects and collaborations on my [GitHub profile](https://github.com/Amitterdal2906). Let's connect and explore more!
+
 
 
 ## 📫 Connect with Me
@@ -57,16 +67,11 @@ I'm a passionate student with a love for Cloud computing. I specialize in cloud 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-terdal-a52440242/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AmitTerdal)
 
-## 🏆 Achievements
+## 🏆 Projects & Achievements
+Here are some projects and achievements that reflect my journey in cloud computing and related fields:
 
-- 🎖️ Research paper 
-- 🥇 Winner of [Competition Name] in [Year]
-- 🏅 [Your Achievement] in [Year]
+**-PACMAN Game:** A Python-based game that showcases my growing skills in programming and problem-solving. This project is part of my broader exploration of software development techniques and cloud-based deployment strategies.
 
-## 🎨 Projects
+**-Cloud Security Innovations:** Currently researching and developing advanced solutions to enhance computer security through innovative hardware-based methods. This project aligns with my goal of improving cloud security and optimizing system efficiency.
 
-### [Project Name](https://github.com/amitterdal2906/project)
-A brief description of the project.!!
-
-### [Another Project](https://github.com/amitterdal2906/anotherproject)
-A brief description of this project too.!!
+**-AI/ML Exploration:** Diving into machine learning and artificial intelligence to understand how these technologies can be integrated into cloud solutions. This exploration helps me stay at the forefront of AI advancements and their applications in cloud environments.
