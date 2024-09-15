@@ -43,6 +43,15 @@ I am an enthusiastic newcomer to the field of Cloud Computing, eager to build a 
 - AWS
 - Azure
 
+## 🏆 Projects & Achievements
+Here are some projects and achievements that reflect my journey in cloud computing and related fields:
+
+**-PACMAN Game:** A Python-based game that showcases my growing skills in programming and problem-solving. This project is part of my broader exploration of software development techniques and cloud-based deployment strategies.
+
+**-Cloud Security Innovations:** Currently researching and developing advanced solutions to enhance computer security through innovative hardware-based methods. This project aligns with my goal of improving cloud security and optimizing system efficiency.
+
+**-AI/ML Exploration:** Diving into machine learning and artificial intelligence to understand how these technologies can be integrated into cloud solutions. This exploration helps me stay at the forefront of AI advancements and their applications in cloud environments.
+
 ## 📊 GitHub Stats
 
 <!-- GitHub Stats Card -->
@@ -67,11 +76,3 @@ Curious about what I've been up to on GitHub? Check out my activity graph to see
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-terdal-a52440242/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AmitTerdal)
 
-## 🏆 Projects & Achievements
-Here are some projects and achievements that reflect my journey in cloud computing and related fields:
-
-**-PACMAN Game:** A Python-based game that showcases my growing skills in programming and problem-solving. This project is part of my broader exploration of software development techniques and cloud-based deployment strategies.
-
-**-Cloud Security Innovations:** Currently researching and developing advanced solutions to enhance computer security through innovative hardware-based methods. This project aligns with my goal of improving cloud security and optimizing system efficiency.
-
-**-AI/ML Exploration:** Diving into machine learning and artificial intelligence to understand how these technologies can be integrated into cloud solutions. This exploration helps me stay at the forefront of AI advancements and their applications in cloud environments.
