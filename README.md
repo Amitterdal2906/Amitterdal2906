@@ -73,6 +73,6 @@ Curious about what I've been up to on GitHub? Check out my activity graph to see
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-terdal-a52440242/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/amit-terdal-a52440242/](https://www.linkedin.com/in/amit-terdal-89a52a329/))
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AmitTerdal)
 
