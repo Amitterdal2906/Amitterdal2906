@@ -29,6 +29,24 @@ I am an enthusiastic newcomer to the field of Cloud Computing, eager to build a 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Malvin](https://img.shields.io/badge/Malvin-4B0082?style=flat&logo=malvin&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+![FileZilla](https://img.shields.io/badge/FileZilla-003A70?style=flat&logo=filezilla&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Quartus](https://img.shields.io/badge/Quartus-007BFF?style=flat&logo=intel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React.js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-121011?style=flat&logo=gnubash&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)  
+
+Feel free to copy and use these badges! Let me know if you need anything else.
+
+Feel free to use these badges! If you need anything else, just let me know.
 
 
 **Languages:**
