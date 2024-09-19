@@ -55,7 +55,8 @@ Here are some projects and achievements that reflect my journey in cloud computi
 ## 📊 GitHub Stats
 
 <!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitterdal2906&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitterdal2906&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=dark)
+
 
 <!-- Top Languages Card -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitterdal2906&layout=compact&theme=dark)
