@@ -44,11 +44,6 @@ I am an enthusiastic newcomer to the field of Cloud Computing, eager to build a 
 ![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-121011?style=flat&logo=gnubash&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)  
 
-Feel free to copy and use these badges! Let me know if you need anything else.
-
-Feel free to use these badges! If you need anything else, just let me know.
-
-
 **Languages:**
 - Python
 - JavaScript
