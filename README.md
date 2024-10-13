@@ -3,7 +3,7 @@
 
 I am an enthusiastic newcomer to the field of Cloud Computing, eager to build a strong foundation in cloud technologies. My interest lies in understanding cloud architecture, deployment, and optimization. Although I am at the beginning of my journey, I have been actively learning about key technologies such as AWS, Azure, Kubernetes, and Docker. My goal is to contribute to creating innovative cloud solutions that enhance scalability, efficiency, and security for businesses.
 
-- 🔭 I’m currently working on **PACMAN Game Using Python**
+- 🔭 I’m currently working on **Learning Rust**
 - 🌱 I’m currently learning **PYTHON**
 - 👯 I’m looking to collaborate on **AI/ML**
 - 💬 Ask me about **Football,Hip-pop**
