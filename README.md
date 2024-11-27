@@ -44,8 +44,9 @@ I am an enthusiastic newcomer to the field of Cloud Computing, eager to build a 
 
 **Languages:**
 - Python
-- JavaScript
+- Java
 - C++
+- Haskel
 
 **Tools & Platforms:**
 - Git & GitHub
